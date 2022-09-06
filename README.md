@@ -1,5 +1,4 @@
 # Aquaponds 
-![alt text](https://github.com/Shirobakaidou/Aquaponds/blob/main/Figures/EAGLE_logo.png?raw=true) 
 
 This is a Master Thesis project aiming at mapping and analyzing the spatio-temporal development of the coastal pond aquaculture in Southeast Asia from 1987 ~ 2019 based on long-term Landsat time series.
 
@@ -16,3 +15,4 @@ This is a Master Thesis project aiming at mapping and analyzing the spatio-tempo
 |:--:| 
 | *Bivariate map of density and 10-year average annual growth of active reference ponds in (A) the 1990s, (B) the 2000s, (C) the 2010s and (D) all selected periods in Borneo, Malaysia* |
 
+![alt text](https://github.com/Shirobakaidou/Aquaponds/blob/main/Figures/EAGLE_logo.png?raw=true) 
